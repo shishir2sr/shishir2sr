@@ -14,7 +14,7 @@ Flutter. I am actively looking for development positions.
 
 ## ⚙️ Technologies & Tools
 ### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shishir2sr)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shishir2sr)](http://yeasirarefin.com)
 
 ## &#x1f4c8; GitHub Stats
 
