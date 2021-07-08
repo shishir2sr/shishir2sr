@@ -1,4 +1,4 @@
-### Hi there, I'm Yeasir Arefin Tusher<img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there%2C+I'm+Yeasir+Arefin+Tusher)](https://git.io/typing-svg)
 #### Bio:
 I am currently learning more about Machine Learning, Deep Learning, Dart, and
 Flutter. I am actively looking for development positions.
@@ -7,9 +7,7 @@ Flutter. I am actively looking for development positions.
 
 - 🌱 I’m currently writing a Book chapter on AI based medical diagnosis
 - 👯 I'm learning flutter to create AI based mobile applications
-- :fontawesome-brands-medium:{ .medium } – Medium
-- :fontawesome-brands-twitter:{ .twitter } – Twitter
-- :fontawesome-brands-facebook:{ .facebook } – Facebook
+
 
 
 
