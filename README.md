@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Yeasir Arefin Tusher<img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-<!--
-**shishir2sr/shishir2sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/shishir2sr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently writing a Book chapter on AI based medical diagnosis
+- 👯 I'm learning flutter to create AI based mobile applications
+
+
+
+## ⚙️ Technologies & Tools
+
+## &#x1f4c8; GitHub Stats
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=shishir2sr&count_private=true" />
+
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shishir2sr&count_private=true"/>
