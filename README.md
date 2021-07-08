@@ -7,6 +7,10 @@ Flutter. I am actively looking for development positions.
 
 - 🌱 I’m currently writing a Book chapter on AI based medical diagnosis
 - 👯 I'm learning flutter to create AI based mobile applications
+- :fontawesome-brands-medium:{ .medium } – Medium
+- :fontawesome-brands-twitter:{ .twitter } – Twitter
+- :fontawesome-brands-facebook:{ .facebook } – Facebook
+
 
 
 
