@@ -1,5 +1,7 @@
 ### Hi there, I'm Yeasir Arefin Tusher<img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-
+#### Bio:
+I am currently learning more about Machine Learning, Deep Learning, Dart, and
+Flutter. I am actively looking for development positions.
 
 ![Profile views](https://gpvc.arturio.dev/shishir2sr)
 
