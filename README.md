@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=15485F&center=true&vCenter=true&lines=Hi+there%2C+I'm+Yeasir+Arefin+Tusher)](http://yeasirarefin.com)
 #### Bio:
-I am currently learning  about Quantum Computing, Quantum Machine Learning, Dart, and
-Flutter. I am actively looking for development positions.
+2023 goal: Become a native iOS developer
 
 ![Profile views](https://gpvc.arturio.dev/shishir2sr)
 
