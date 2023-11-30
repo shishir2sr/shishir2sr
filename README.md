@@ -4,10 +4,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/shishir2sr)
 
-- 🌱 I’m currently learning iOS development with swift and UIKit
-- 👯 Working as a trainee software engineer at BJIT Academy
-
-
 
 
 
